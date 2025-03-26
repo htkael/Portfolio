@@ -1,12 +1,30 @@
-# React + Vite
+# Hunter Kael - Web Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This portfolio showcases my web development projects and skills as I transition into a career in tech. Built with React and Tailwind CSS, this site highlights my journey from criminal justice to web development.
 
-Currently, two official plugins are available:
+## Live Site
+[View my portfolio](https://hunter-kael.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- **Frontend Framework**: React
+- **Styling**: Tailwind CSS
+- **Deployment**: Netlify
 
-## Expanding the ESLint configuration
+## Features
+- Responsive design for all device sizes
+- Project showcase with detailed descriptions
+- Skills and technologies section
+- About me and career journey
+- Contact information
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Projects Highlighted
+- **Climbing Connection**: A social media platform for rock climbing enthusiasts
+- **File Uploader**: A Google Drive-inspired file management system
+
+
+## Contact
+Feel free to reach out for collaboration or employment opportunities:
+- Email: hunter.kael@email.com
+- GitHub: [hunter-kael](https://github.com/hunter-kael)
+- LinkedIn: [Hunter Kael](https://linkedin.com/in/hunter-kael)
