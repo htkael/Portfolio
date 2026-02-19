@@ -4,7 +4,7 @@
 This portfolio showcases my web development projects and skills as I transition into a career in tech. Built with React and Tailwind CSS, this site highlights my journey from criminal justice to web development.
 
 ## Live Site
-[View my portfolio](https://hunter-kael.netlify.app/)
+[View my portfolio](https://hunterdevelops.com)
 
 ## Technologies
 - **Frontend Framework**: React
